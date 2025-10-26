@@ -4,7 +4,8 @@ Achieve 99.4 % accuracy using less than 8000 parameters. Results should be eveid
 * Accuracy: 99.4% (consistently in last few epochs)
 * Epochs: 15
 * Parameters < 8000
-* Result Summary
+- ##  Result Summary
+  
 | Model | Train accuracy | Test accuracy | No. of parameters | Epochs | Target met |
 |-------|-----------|----------|------------|---------|------------|
 | Model 1 | 98.8 | 98.8 | 7998 | 15 | NA |
@@ -250,5 +251,6 @@ Validation loss has not improved since: 0.019.. Count:  1
 Epoch: 15/15..  Time: 58.90s.. Training Loss: 0.040..  Training Accu: 0.988..  Val Loss: 0.019..  Val Accu: 0.994
 
 ```
+
 
 
